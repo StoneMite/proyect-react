@@ -1,0 +1,27 @@
+
+Button {
+  justify-content: center;
+  align-items: center;
+  background: black;
+  display: flex;
+  cursor: pointer;
+  border: 14;
+  border-color: #ca9696;
+  padding: 16px 32px;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  position: relative;
+  border-radius: 12px;
+ 
+}
+
+
+a{
+  cursor: pointer;
+  display: flex;
+  justify-Content: center;
+  align-Items: center;
+  height: 100vh;
+}
+
